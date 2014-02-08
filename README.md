@@ -1,4 +1,4 @@
-#fluent-plugin-tagfile
+#fluent-plugin-tagfile, a plugin for [Fluentd](http://fluentd.org)
 
 This is similar to the `file` build-in output plugin, but `tag_file` decides output directory using tag of events.
 
